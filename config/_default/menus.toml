@@ -9,28 +9,48 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "News"
   url = "#posts"
   weight = 20
-
+  
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "People"
+  url = "#people"  
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Research"
+  url = "#projects"
   weight = 40
 
 [[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 60
+  
+[[main]]
+  name = "Teaching"
+  url = "#talks"
+  weight = 70
+  
+[[main]]
+  name = "Sponsors"
+  url = "#sponsors"
+  weight = 80
+  
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 70
