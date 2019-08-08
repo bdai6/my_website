@@ -1,0 +1,10 @@
+/* refer to:                                                                  */
+/* https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357511324 */
+
+.fancybox-image {
+            position: relative;
+            width: auto;
+            height: 300px;
+            margin: 0 auto;
+            max-width: 100%;
+        }

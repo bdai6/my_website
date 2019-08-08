@@ -40,7 +40,7 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS. Option added to the whole section. refer to public/index.html
  css_style = ""
  
  # CSS class.

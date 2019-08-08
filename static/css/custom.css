@@ -1,0 +1,16 @@
+/* custom the placement of images in gallery                                  */
+/* https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357511324 */
+
+/*
+.fancybox-image {
+            position: relative;
+            width: auto;
+            height: 153px;
+            margin: 107px auto;
+            max-width: 100%;
+        }
+*/		
+
+a[data-fancybox] img {
+  height: 107px;
+}
