@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "grey"
+  # color = "grey"
   
   # Background gradient.
   #gradient_start = "DarkGreen"
@@ -33,7 +33,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -45,6 +45,63 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ # Gallery
+[[gallery_item]]
+album = "sponsors"
+image = "darpa.jpg"
+caption = "DARPA"
+
+[[gallery_item]]
+album = "sponsors"
+image = "nsf.png"
+caption = "NSF"
+
+[[gallery_item]]
+album = "sponsors"
+image = "warf.png"
+caption = "WARF"
+
+[[gallery_item]]
+album = "sponsors"
+image = "src.png"
+caption = "SRC-JUMP"
+
+[[gallery_item]]
+album = "sponsors"
+image = "xilinx.png"
+caption = "Xilinx"
+
+[[gallery_item]]
+album = "sponsors"
+image = "ibm.png"
+caption = "IBM"
+
+[[gallery_item]]
+album = "sponsors"
+image = "panasonic.png"
+caption = "Panasonic"
+
+[[gallery_item]]
+album = "sponsors"
+image = "cea-leti.jpg"
+caption = "CEA-Leti"
+
+[[gallery_item]]
+album = "sponsors"
+image = "nvidia.png"
+caption = "Nvdia"
+
+[[gallery_item]]
+album = "sponsors"
+image = "intel.png"
+caption = "Intel"
+
+[[gallery_item]]
+album = "sponsors"
+image = "micron"
+caption = "Micron"
+
 +++
 
-Logos of sponsors...
+{{< gallery album="sponsors" >}}
