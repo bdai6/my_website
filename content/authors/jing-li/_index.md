@@ -4,32 +4,38 @@ name: Jing Li
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jing-li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor of Electrical and Computer Engineering
+role: Dugald C.Jackson Assistant Professor of Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Electrical and Computer Engineering
+  url: "http://www.engr.wisc.edu/department/electrical-computer-engineering/"
+- name: Department of Computer Sciences
+  url: "https://www.cs.wisc.edu/"
 - name: University of Wisconsin-Madison
-  url: "https://directory.engr.wisc.edu/ece/Faculty/Li_Jing/"
+  url: "https://www.wisc.edu"  
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am attracted to all the big problems I can find in computer system across the stack regardless the specific sub-areas.
+bio: Attracted to all the big problems in computer system across the stack regardless the specific sub-areas.
 
 interests:
 - Computer Architecture
 - Memory
 - VLSI
+- Machine Learning
 
 education:
   courses:
   - course: PhD in Computer Engineering
     institution: Purdue University
-    year: 2008
+    year: 2009
   - course: BSc in Electrical Engineering
     institution: Shanghai Jiaotong University
     year: 2004
@@ -48,14 +54,14 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&authuser=2&user=QGYL3tAAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jingjaneli
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/jingjaneli
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV-JingLi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+ - Principal Investigators
 ---
 
 Dr. Jing Li is an assistant professor and Dugald C. Jackson Faculty Scholar at the department of Electrical and Computer Engineering and Computer Science (affiliated). She is part of Computer Architecture @ UW-Madison and Machine Learning @ UW-Madison. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (CRISP). She spent her early career at IBM T. J. Watson Research Center as a Research Staff Member after obtaining her PhD degree from Purdue University in 2009.
