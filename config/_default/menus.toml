@@ -17,12 +17,22 @@
   name = "PI"
   url = "#about"
   weight = 20
+
+[[main]]
+  name = "notes"
+  url = "notes/"
+  weight = 25
   
 [[main]]
   name = "The Lab"
   url = "#people"  
   weight = 30
 
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 35
+  
 [[main]]
   name = "Research Overview"
   url = "#research"
