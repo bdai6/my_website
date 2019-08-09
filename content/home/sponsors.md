@@ -104,5 +104,4 @@ image = "xilinx.png"
 caption = "Xilinx"
 
 +++
-
 {{< gallery album="sponsors" >}}
