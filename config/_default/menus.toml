@@ -20,7 +20,7 @@
 
 [[main]]
   name = "notes"
-  url = "notes/"
+  url = "courses/notes-on-hugo-academic/"
   weight = 25
   
 [[main]]
