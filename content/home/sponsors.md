@@ -59,28 +59,13 @@ caption = "NSF"
 
 [[gallery_item]]
 album = "sponsors"
-image = "warf.png"
-caption = "WARF"
-
-[[gallery_item]]
-album = "sponsors"
 image = "src.png"
 caption = "SRC-JUMP"
 
 [[gallery_item]]
 album = "sponsors"
-image = "xilinx.png"
-caption = "Xilinx"
-
-[[gallery_item]]
-album = "sponsors"
-image = "ibm.png"
-caption = "IBM"
-
-[[gallery_item]]
-album = "sponsors"
-image = "panasonic.png"
-caption = "Panasonic"
+image = "warf.png"
+caption = "WARF"
 
 [[gallery_item]]
 album = "sponsors"
@@ -89,18 +74,34 @@ caption = "CEA-Leti"
 
 [[gallery_item]]
 album = "sponsors"
-image = "nvidia.png"
-caption = "Nvdia"
+image = "ibm.png"
+caption = "IBM"
 
 [[gallery_item]]
 album = "sponsors"
 image = "intel.png"
 caption = "Intel"
 
+
 [[gallery_item]]
 album = "sponsors"
-image = "micron"
+image = "micron.png"
 caption = "Micron"
+
+[[gallery_item]]
+album = "sponsors"
+image = "nvidia.png"
+caption = "Nvdia"
+
+[[gallery_item]]
+album = "sponsors"
+image = "panasonic.png"
+caption = "Panasonic"
+
+[[gallery_item]]
+album = "sponsors"
+image = "xilinx.png"
+caption = "Xilinx"
 
 +++
 
