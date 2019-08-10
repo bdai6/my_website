@@ -6,3 +6,7 @@
 	path = public
 	url = https://github.com/bdai6/bdai6.github.io.git
 	branch = master
+[submodule "hugo-easy-gallery"]
+	path = hugo-easy-gallery
+	url = https://github.com/bdai6/hugo-easy-gallery.git
+	branch = master

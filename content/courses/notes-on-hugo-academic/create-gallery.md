@@ -42,3 +42,7 @@ Evidently from [Sponsers](/#sponsors), we have to manually enter each `gallery_i
 
 ## Hugo Easy Gallery
 [Hugo Easy Gallery](https://www.liwen.id.au/heg/) claims to address all the issues above. And I plan to give it a try. The source code is [here](https://github.com/bdai6/hugo-easy-gallery).
+
+### Installation instruction
+#### add to my_website as a submodule
+`git submodule add -f -b master https://github.com/bdai6/hugo-easy-gallery.git hugo-easy-gallery`
