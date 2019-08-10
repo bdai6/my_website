@@ -17,11 +17,12 @@
   name = "PI"
   url = "#about"
   weight = 20
-
+  
 [[main]]
-  name = "notes"
-  url = "courses/notes-on-hugo-academic/"
+  name = "CV"
+  url = "cv/"
   weight = 25
+  
   
 [[main]]
   name = "The Lab"
@@ -54,7 +55,7 @@
   weight = 60
   
 [[main]]
-  name = "Teaching"
+  name = "Courses & Notes"
   url = "courses/"
   weight = 70
   
