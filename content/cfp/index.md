@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-Twenty-Eighth ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+Twenty-Eighth ACM/SIGDA International Symposium on Field-Programmable Gate Arrays\
 [http://www.isfpga.org](http://www.isfpga.org)
 
 February 24-26, 2020\
