@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The impact of heater-recess and load matching in phase change memory mushroom cells"
-authors: [Adam Cywar, Jing Li, Chung Lam, Helena Silva]
-date: 2012-05-102T16:49:30-05:00
-doi: "10.1088/0957-4484/23/22/225201"
+title: "Specialization: A New Path towards Low Power (INVITED)"
+authors: [Yue Zha, Jing Li]
+date: 2018-02-15T16:03:29-05:00
+doi: "10.1166/jolpe.2018.1559"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-12T16:49:30-05:00
+publishDate: 2019-08-12T16:03:29-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2019-08-12T16:49:30-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nanotechnology"
-publication_short: ""
+publication: "ASP Journal of Low Power Electronics"
+publication_short: "JOLPE"
 
-abstract: ""
+abstract: "Today, energy-efficiency becomes the primary development goal across all computing platforms–from mobile devices to high-end servers. Despite that it has been steadily improved through technology and voltage scaling over the past decades, due to the fundamental physical limitation, it is changeling to retain the benefits using these traditional methods. We envision that specialization is a new path to extending the system scaling roadmap for low power. In this paper, we survey the recent progress on specialization, which can be broadly divided into two categories i.e., specialization in technology and specialization in architecture. For specialization in technology, we focus on emerging non-volatile memory (NVM) technologies (particularly, phase change memory) to provide a concrete review. For specialization in architecture, we first present an overview of NVM-based memory architectures, and then highlight the recent development of NVM-based non-Von Neumann architectures that provide processing-in-memory capability for various applications."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [phase change memory]
+tags: [low power, non-volatile memory, phase change memory, non-Von Neumann, processing-in-memory]
 categories: []
 featured: false
 

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The impact of heater-recess and load matching in phase change memory mushroom cells"
-authors: [Adam Cywar, Jing Li, Chung Lam, Helena Silva]
-date: 2012-05-102T16:49:30-05:00
-doi: "10.1088/0957-4484/23/22/225201"
+title: "CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection"
+authors: [Yue Zha, Jing Li]
+date: 2017-07-03T16:16:25-05:00
+doi: "10.1109/LCA.2017.2719023"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-12T16:49:30-05:00
+publishDate: 2019-08-12T16:16:25-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2019-08-12T16:49:30-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nanotechnology"
-publication_short: ""
+publication: "IEEE Computer Architecture Letters"
+publication_short: "CAL"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [phase change memory]
+tags: [Coprocessors,Encoding,IP networks,Intrusion detection,Ports (Computers),Accelerator,Intrusion Detection,Network Security,ReRAM,TCAM]
 categories: []
 featured: false
 
