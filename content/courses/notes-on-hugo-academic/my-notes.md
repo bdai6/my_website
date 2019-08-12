@@ -132,3 +132,8 @@ Actually automatic increment of numbers can be achived by
   1. alpha
   1. beta
 1. Third
+
+## Associate Post, Publication, and Talk with projects
+In the front matter of `index.md` of a *post, publication*, or *talk*, set `projects: ["project1", "project2"]`. Make sure each item must match a project filename exactly (without file extension) for a link to be generated. Refer to `content\publication\zha-2019-vlsic\index.md` for example. 
+
+Similarly, a publication can associate with Markdown slides. Set `slides: "slide-name"`.

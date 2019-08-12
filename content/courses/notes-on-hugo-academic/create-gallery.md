@@ -27,13 +27,26 @@ I'd like to create an image gallery with the following requirement:
 
 
 ## Current solutions and issues
-Refer to [Sponsers](/#sponsors). The instruction in [sourcethemes.com](https://sourcethemes.com/academic/docs/writing-markdown-latex/#image-gallery) does not work as they are for `yaml` format while the widget page uses `toml`. It turned out I had to follow [this instruction](https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202) to create a gallery. The following lines are in the front matter of `sponsers.md`.
+### For non- hompage
+The instruction in [sourcethemes.com](https://sourcethemes.com/academic/docs/writing-markdown-latex/#image-gallery) works for `yaml` format. One example is in `content/post/getting-started/index.md`. To make it work, place images in a folder named `gallery`, then place the folder to a project/post/etc folder. And in the main body of the `index.md` insert `{{``< gallery >``}}` command. You can also include the following lines to the *front matter* to insert captions for the images. 
+```json
+gallery_item:
+- album: gallery
+  caption: Default
+  image: theme-default.png
+---
+```
+The problem is there is no way to control the placement or the size of the inserted images.
+
+### For homepage
+The aforementioned method only works for `yaml` format, while the widget page (*homepage*) uses `toml`. To make it work, it turned out I had to follow [this instruction](https://github.com/gcushen/hugo-academic/issues/398#issuecomment-357444202) to create a gallery. The following lines are in the front matter of `sponsers.md`. Refer to [Sponsers](/#sponsors). 
 ```toml
  # Gallery
 [[gallery_item]]
 album = "sponsors"
 image = "darpa.jpg"
 caption = "DARPA"
++++
 ```
 Images are uploaded to `content/img` (if not referencing image URLs
 ). And gallary is initialized in `sponsor.md` main body using `{``{< gallery album="sponsors" >}``}`.
