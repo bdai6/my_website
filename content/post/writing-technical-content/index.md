@@ -1,6 +1,6 @@
 ---
 title: Writing technical content in Academic
-date: 2019-07-12
+date: 1900-07-12
 authors:
 - jing-li
 math: true

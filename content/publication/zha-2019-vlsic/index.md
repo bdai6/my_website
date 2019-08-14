@@ -8,7 +8,7 @@ publication: "_2019 IEEE Symposium on VLSI Circuits_"
 publication_short: ""
 abstract: "A nonvolatile fully programmable processing-in-memory (PIM) processor named Liquid Silicon (L-Si) is demonstrated, which combines the superior programmability of general-purpose computing devices (e.g. FPGA) and the high power efficiency of domain-specific accelerators. Besides the general computing applications, L-Si is particularly well suited for AI/machine learning and big data applications, which not only pose high computational/memory demand but also evolves rapidly. L-Si is fabricated by monolithically integrating HfO 2 resistive RAM on top of commercial 130nm Si CMOS. Our measurement confirmed the fabricated chip operates reliably at low voltage of 650 mV. It achieves 60.9 TOPS/W in performing neural network inferences and 480 GOPS/W in performing content-based similarity search (a key big data application) at nominal voltage supply of 1.2V, showing >3× and ~100× power efficiency improvement over the state-of-the-art domain-specific CMOS-/RRAM-based accelerators. In addition, it outperforms the latest nonvolatile FPGA in energy efficiency by ~3× in general compute-intensive applications."
 summary: ""
-tags: ["conference"]
+tags: ["conference", "liquid silicon"]
 categories: []
 featured: false
 
