@@ -1,7 +1,7 @@
 ---
-title: "Nonvolatile Memory Outlook: Technology Driven or Application Driven? (textbfinvited)"
+title: "Nonvolatile Memory Outlook: Technology Driven or Application Driven? (INVITED)"
 authors: ["Jing Li"]
-date: 2018-03-01
+date: 2018-03-12
 publication_types: ["1"]
 publication: "_2018 China Semiconductor Technology International Conference (CSTIC)_"
 publication_short: ""

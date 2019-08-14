@@ -4,7 +4,7 @@ authors: [" Cheng-Yuan Wen","Jeyanandh Paramesh","Larry Pileggi","Jing Li","Sang
 date: 2011-09-01
 doi: "10.1109/ESSCIRC.2011.6044997"
 publication_types: ["1"]
-publication: "_2011 Proceedings of the ESSCIRC (textbfESSCIRC)_"
+publication: "_2011 Proceedings of the ESSCIRC (**ESSCIRC**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," cmos analogue integrated circuits","antimony compounds","calibration","chalcogenide glasses","comparators (circuits)","elemental semiconductors","germanium compounds","phase change memories","redundancy","silicon","tellurium compounds","ge2sb2te5","ibm cmos technology","pcram mushroom cells","si","analog cmos","capacitance 4.41 ff","combinatorial redundancy","digital calibration","embedded gst","nonvolatile phase-change random access memory cells","offset-minimized cmos comparator","post-manufacturing calibration","post-silicon calibration","power 55.42 muw","size 90 nm","switchable resistances","voltage 1 v","arrays","cmos integrated circuits","calibration","generators","phase change random access memory","redundancy","resistance"]

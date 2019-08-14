@@ -1,7 +1,7 @@
 ---
 title: "CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection"
 authors: ["Yue Zha","Jing Li"]
-date: 2017-01-01
+date: 2017-07-03
 doi: "10.1109/LCA.2017.2719023"
 publication_types: ["2"]
 publication: "_IEEE Computer Architecture Letters_"

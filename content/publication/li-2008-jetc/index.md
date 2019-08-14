@@ -1,5 +1,5 @@
 ---
-title: "An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (textbfinvited)"
+title: "An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (INVITED)"
 authors: ["Jing Li","Aditya Bansal","Swarop Ghosh","Kaushik Roy"]
 date: 2008-08-01
 doi: "10.1145/1389089.1389093"

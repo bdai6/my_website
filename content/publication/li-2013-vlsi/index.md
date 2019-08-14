@@ -1,7 +1,7 @@
 ---
-title: "1Mb 0.41 $mu$m$^2$ 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (textbfHighlight Paper of the Year)"
+title: "1Mb 0.41 um^2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year)"
 authors: ["Jing Li","Robert Montoye","Masatoshi Ishii","Kevin Stawiasz","Takeshi Nishida","Kim Maloney","Gary Ditlow","Scott Lewis","Tom Maffitt","Richard Jordan","others"]
-date: 2013-06-01
+date: 2013-06-12
 doi: ""
 publication_types: ["1"]
 publication: "_2013 Symposium on VLSI Circuits_"

@@ -1,7 +1,7 @@
 ---
 title: "Computing Generalized Matrix Inverse on Spiking Neural Substrate"
 authors: ["Rohit Shukla","Soroosh Khoram","Erik Jorgensen","Jing Li","Mikko Lipasti","Stephen Wright"]
-date: 2018-02-01
+date: 2018-02-14
 doi: "10.3389/fnins.2018.00115"
 publication_types: ["2"]
 publication: "_Frontiers in neuroscience: Neuromorphic engineering_"

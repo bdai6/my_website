@@ -4,7 +4,7 @@ authors: ["Xiao Zhang","Jing Li","M. Grubbs","M. Deal","B. Magyari-Köpe","B. M.
 date: 2009-12-01
 doi: "10.1109/IEDM.2009.5424420"
 publication_types: ["1"]
-publication: "_2009 IEEE International Electron Devices Meeting (textbfIEDM)_"
+publication: "_2009 IEEE International Electron Devices Meeting (**IEDM**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," mos integrated circuits","mosfet","sram chips","integrated circuit metallisation","integrated circuit reliability","work function","sram reliability","dual metal gate mosfet","grain orientation difference","metal grain work function variability","polycrystalline metal gate","size 22 nm","charge carrier density","circuit analysis","electrodes","fluctuations","high k dielectric materials","mosfets","predictive models","random access memory","resource description framework","semiconductor process modeling"]

@@ -4,7 +4,7 @@ authors: ["B. Rajendran","R. W. Cheek","L. A. Lastras","M. M. Franceschini","M. 
 date: 2011-05-01
 doi: "10.1109/IMW.2011.5873229"
 publication_types: ["1"]
-publication: "_2011 3rd IEEE International Memory Workshop (textbfIMW)_"
+publication: "_2011 3rd IEEE International Memory Workshop (**IMW**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," monte carlo methods","content-addressable storage","phase change memories","monte-carlo simulation","pcm decives","sram","tcam","content addressable memory","phase change devices","phase change memory technology","ternary cam","arrays","computer aided manufacturing","fets","phase change materials","programming","resistance","resistors"]

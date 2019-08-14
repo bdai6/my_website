@@ -1,5 +1,5 @@
 ---
-title: "Phase change memory (textbfinvited)"
+title: "Phase change memory (INVITED)"
 authors: ["Jing Li","Chung Lam"]
 date: 2011-05-01
 doi: "10.1007/s11432-011-4223-x"

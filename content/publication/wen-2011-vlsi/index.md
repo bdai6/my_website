@@ -1,7 +1,7 @@
 ---
 title: "A non-volatile look-up table design using PCM (phase-change memory) cells"
 authors: ["C. Y. Wen","Jing Li","S. Kim","M. Breitwisch","C. Lam","J. Paramesh","L. T. Pileggi"]
-date: 2011-06-01
+date: 2011-06-15
 doi: ""
 publication_types: ["1"]
 publication: "_2011 Symposium on VLSI Circuits - Digest of Technical Papers_"

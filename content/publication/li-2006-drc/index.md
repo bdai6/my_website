@@ -4,7 +4,7 @@ authors: ["Jing Li","Aditya Bansal","Kaushik Roy"]
 date: 2006-06-01
 doi: "10.1109/DRC.2006.305118"
 publication_types: ["1"]
-publication: "_2006 64th Device Research Conference (textbfDRC)_"
+publication: "_2006 64th Device Research Conference (**DRC**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," costs","crystallization","dielectric substrates","digital circuits","fabrication","grain boundaries","grain size","silicon","temperature","thin film transistors"]

@@ -1,7 +1,7 @@
 ---
 title: "Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications"
 authors: ["Yue Zha","Etienne Nowak","Jing Li"]
-date: 2019-06-01
+date: 2019-06-09
 doi: "10.23919/VLSIC.2019.8778064"
 publication_types: ["1"]
 publication: "_2019 IEEE Symposium on VLSI Circuits_"

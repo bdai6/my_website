@@ -1,7 +1,7 @@
 ---
-title: "Specialization: A New Path towards Low Power (textbfinvited)"
+title: "Specialization: A New Path towards Low Power (INVITED)"
 authors: ["Yue Zha","Jing Li"]
-date: 2018-01-01
+date: 2018-02-15
 doi: "10.1166/jolpe.2018.1559"
 publication_types: ["2"]
 publication: "_ASP Journal of Low Power Electronics, 2018_"

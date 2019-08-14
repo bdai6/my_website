@@ -4,6 +4,7 @@ authors: ["Yue Zha","Jing Li"]
 date: 2017-06-01
 publication_types: ["1"]
 publication: "_the 54th Annual Design Automation Conference Work-in-Progress_"
+publication: "_the 54th Annual Design Automation Conference Work-in-Progress, ser. DAC-WIP '17_"
 publication_short: ""
 summary: ""
 tags: ["conference"]

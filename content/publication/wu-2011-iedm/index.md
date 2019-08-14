@@ -4,7 +4,7 @@ authors: ["J. Y. Wu","M. Breitwisch","S. Kim","T. H. Hsu","R. Cheek","P. Y. Du",
 date: 2011-12-01
 doi: "10.1109/IEDM.2011.6131479"
 publication_types: ["1"]
-publication: "_2011 International Electron Devices Meeting (textbfIEDM)_"
+publication: "_2011 International Electron Devices Meeting (**IEDM**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," conductors (electric)","electrodes","heat losses","integrated circuit reliability","low-power electronics","phase change memories","tantalum compounds","thermal insulation","titanium compounds","tan-tin","current 30 mua","electrical conductivity","electrothermal simulation","low power pcm","low power phase change memory","size 1.5 nm","size 39 nm","storage capacity 256 mbit","thermal barrier","thermal insulation","thermally confined bottom electrode","electrodes","heating","phase change memory","solids","thermal resistance","tin"]

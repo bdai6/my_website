@@ -4,7 +4,7 @@ authors: ["P. Y. Du","J. Y. Wu","T. H. Hsu","M. H. Lee","T. Y. Wang","H. Y. Chen
 date: 2012-04-01
 doi: "10.1109/IRPS.2012.6241872"
 publication_types: ["1"]
-publication: "_2012 IEEE International Reliability Physics Symposium (textbfIRPS)_"
+publication: "_2012 IEEE International Reliability Physics Symposium (**IRPS**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," arrays","circuit reliability","electromigration","melting","phase change memories","segregation","gst-based phase change memory","reset melting healing effect","set induced damage","set operation","control circuits","electromigration","large test chips","operation impact","phase change memory reliability","phase segregation","reset operation","conductivity","electromigration","maintenance engineering","phase change materials","phase change memory","resistance","tin","endurance","reset operation","electromigration","melting","phasechange memory (pcm)","reliability","segregation"]

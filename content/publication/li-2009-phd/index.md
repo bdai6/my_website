@@ -1,5 +1,5 @@
 ---
-title: "Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (textbfnominated for Best Thesis Award)"
+title: "Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (Best Thesis Award nominee"
 authors: ["Jing Li"]
 date: 2009-01-01
 publication_types: ["7"]

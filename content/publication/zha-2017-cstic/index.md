@@ -1,7 +1,7 @@
 ---
-title: "Recent progress in RRAM technology: From compact models to applications (textbfinvited)"
+title: "Recent progress in RRAM technology: From compact models to applications (INVITED)"
 authors: ["Yue Zha","Zhiqiang Wei","Jing Li"]
-date: 2017-03-01
+date: 2017-03-12
 doi: "10.1109/CSTIC.2017.7919731"
 publication_types: ["1"]
 publication: "_2017 China Semiconductor Technology International Conference (CSTIC)_"

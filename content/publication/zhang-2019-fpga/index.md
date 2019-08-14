@@ -1,10 +1,11 @@
 ---
 title: "Unleashing the Power of Soft Logic for Convolutional Neural Network Acceleration via Product Quantization (Poster)"
 authors: ["Jialiang Zhang","Jing Li"]
-date: 2019-02-01
+date: 2019-02-24
 doi: "10.1145/3289602.3293951"
 publication_types: ["1"]
 publication: "_the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays_"
+publication: "_the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, ser. **FPGA** '19_"
 publication_short: ""
 summary: ""
 tags: ["conference"]

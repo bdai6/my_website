@@ -1,7 +1,7 @@
 ---
-title: "An Alternative Analytical Approach to Associative Processing (textbfBest of CAL)"
+title: "An Alternative Analytical Approach to Associative Processing (Best of CAL)"
 authors: ["Soroosh Khoram","Yue Zha","Jing Li"]
-date: 2018-07-01
+date: 2018-01-03
 doi: "10.1109/LCA.2018.2789424"
 publication_types: ["2"]
 publication: "_IEEE Computer Architecture Letters_"

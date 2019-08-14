@@ -1,5 +1,5 @@
 ---
-title: "Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (textbfbest paper)"
+title: "Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (Best Paper)"
 authors: ["Jing Li","Patrick Ndai","Ashish Goel","Sayeef Salahuddin","Kaushik Roy"]
 date: 2010-12-01
 doi: "10.1109/TVLSI.2009.2027907"

@@ -1,5 +1,5 @@
 ---
-title: "Enabling phase-change memory for data-centric computing: Technology, circuitand system (textbfinvited)"
+title: "Enabling phase-change memory for data-centric computing: Technology, circuitand system (INVITED)"
 authors: ["Jing Li"]
 date: 2015-05-01
 doi: "10.1109/ISCAS.2015.7168560"

@@ -4,6 +4,7 @@ authors: ["Jing Li","Kaushik Roy"]
 date: 2009-01-01
 publication_types: ["1"]
 publication: "_the 46th Annual Design Automation Conference PHD Forum_"
+publication: "_the 46th Annual Design Automation Conference PHD Forum, ser. **DAC** '09_"
 publication_short: ""
 summary: ""
 tags: ["conference"]

@@ -4,7 +4,7 @@ authors: ["S. Kim","P. Y. Du","Jing Li","M. Breitwisch","Y. Zhu","S. Mittal","R.
 date: 2012-04-01
 doi: "10.1109/VLSI-TSA.2012.6210122"
 publication_types: ["1"]
-publication: "_Proceedings of Technical Program of 2012 VLSI Technology, System and Application (textbfVLSI-TSA)_"
+publication: "_Proceedings of Technical Program of 2012 VLSI Technology, System and Application (**VLSI-TSA**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," failure analysis","phase change memories","reset current margin","endurance cycles","endurance failure modes","material segregation effect","open failure","optimization","phase change memory","phase-dependent open-failure mechanisms","programming conditions","programming current","stuck-set failure characteristic curves","current density","optimization","phase change materials","phase change memory","programming","resistance"]

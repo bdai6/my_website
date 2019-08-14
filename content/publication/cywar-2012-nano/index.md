@@ -1,7 +1,7 @@
 ---
 title: "The impact of heater-recess and load matching in phase change memory mushroom cells"
 authors: ["Adam Cywar","Jing Li","Chung Lam","Helena Silva"]
-date: 2012-01-01
+date: 2012-05-10
 doi: "10.1088/0957-4484/23/22/225201"
 publication_types: ["2"]
 publication: "_Nanotechnology_"

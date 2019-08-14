@@ -4,7 +4,7 @@ authors: ["Jing Li","Kunhyuk Kang","Aditya Bansal","Kaushik Roy"]
 date: 2007-06-01
 doi: "10.1145/1278480.1278550"
 publication_types: ["1"]
-publication: "_2007 44th ACM/IEEE Design Automation Conference (textbfDAC)_"
+publication: "_2007 44th ACM/IEEE Design Automation Conference (**DAC**)_"
 publication_short: ""
 summary: ""
 tags: ["conference"," flexible electronics","low-power electronics","semiconductor device models","silicon","substrates","thin film transistors","gb-tolerant design","flexible substrate","grain boundaries","low power electronics","polycrystalline silicon thin film transistor","ultra low power digital application","design methodology","design optimization","displays","electron traps","grain boundaries","low power electronics","silicon","substrates","temperature","thin film transistors","design","experimentation","grain boundary (gb)","thin film transistor (tft)"]

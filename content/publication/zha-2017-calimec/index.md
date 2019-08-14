@@ -1,7 +1,7 @@
 ---
 title: "IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar"
 authors: ["Yue Zha","Jing Li"]
-date: 2017-02-01
+date: 2017-02-22
 doi: "10.1109/LCA.2017.2672558"
 publication_types: ["2"]
 publication: "_IEEE Computer Architecture Letters_"

@@ -1,7 +1,7 @@
 ---
 title: "SysML: The New Frontier of Machine Learning Systems"
 authors: ["Alexander Ratner","Dan Alistarh","Gustavo Alonso","David G. Andersen","Peter Bailis","Sarah Bird","Nicholas Carlini","Bryan Catanzaro","Jennifer Chayes","Eric Chung","Bill Dally","Jeff Dean","Inderjit S. Dhillon","Alexandros Dimakis","Pradeep Dubey","Charles Elkan","Grigori Fursin","Gregory R. Ganger","Lise Getoor","Phillip B. Gibbons","Garth A. Gibson","Joseph E. Gonzalez","Justin Gottschlich","Song Han","Kim Hazelwood","Furong Huang","Martin Jaggi","Kevin Jamieson","Michael I. Jordan","Gauri Joshi","Rania Khalaf","Jason Knight","Jakub Konevcn'y","Tim Kraska","Arun Kumar","Anastasios Kyrillidis","Aparna Lakshmiratan","Jing Li","Samuel Madden","H. Brendan McMahan","Erik Meijer","Ioannis Mitliagkas","Rajat Monga","Derek Murray","Kunle Olukotun","Dimitris Papailiopoulos","Gennady Pekhimenko","Theodoros Rekatsinas","Afshin Rostamizadeh","Christopher R'e","Christopher De Sa","Hanie Sedghi","Siddhartha Sen","Virginia Smith","Alex Smola","Dawn Song","Evan Sparks","Ion Stoica","Vivienne Sze","Madeleine Udell","Joaquin Vanschoren","Shivaram Venkataraman","Rashmi Vinayak","Markus Weimer","Andrew Gordon Wilson","Eric Xing","Matei Zaharia","Ce Zhang","Ameet Talwalkar"]
-date: 2019-03-01
+date: 2019-03-29
 publication_types: ["2"]
 publication: "_arXiv preprint arXiv:1904.03257_"
 publication_short: ""
