@@ -66,6 +66,10 @@ Just need to make sure that the .bib file is named to be **publications.bib**
 
 If there are some typos in the auto generated publication, or if you want to update some details about the publication, you should edit the parameters in `content/publication/<my-publication>/index.md`. 
 
+{{% alert note %}}
+`academic` package is cross-platform and can be installed with the same command `pip3 install -U academic` on Windows and macOS. However, somehow **v0.2.7** is installed on Windows while **v0.4.0** on macOS. The most distinct difference between the two versions are: v0.2.7 converts bib file to TOML format for Hugo while v0.4.0 YAML. Currently academic handles publication/talk/post webpage in **YAML**, so this convertion job should be conducted on macOS.
+{{% /alert %}}
+
 ## Create Table of Contents
 Use the `{``{% toc %\}``}` shortcode anywhere you wish within your Markdown content to automatically generate a table of contents. For example, refer to the [top of the page](#table-of-contents). 
 
