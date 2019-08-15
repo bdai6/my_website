@@ -35,3 +35,12 @@ The list of latest work is controlled by `/layouts/authors/list.html`. So the qu
     </div>
     {{ end }}
 ```
+
+## Hugo templates
+https://gohugo.io/templates/
+
+## Hugo functions
+https://gohugo.io/functions/
+
+## Hugo variables
+https://gohugo.io/variables/
