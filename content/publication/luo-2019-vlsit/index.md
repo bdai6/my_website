@@ -1,5 +1,5 @@
 ---
-title: "Nbtextsubscript1-xOtextsubscript2 based Universal Selector with Ultra-high Endurance (>10textsuperscript12), high speed (10ns) and Excellent Vtextsubscriptth Stability"
+title: "Nb(1-x)O2 based Universal Selector with Ultra-high Endurance (>10^12), high speed (10ns) and Excellent Vth Stability"
 authors: ["Qing Luo","Jie Yu","Xumeng Zhang","Kan-Hao Xue","Yan Cheng","Tiancheng Gong","Hangbing Lv","Xiaoxin Xu","Peng Yuan","Jiahao Yin","Lu Tai","Shibing Long","Qi Liu","Jing Li","Ming Liu"]
 date: 2019-06-09
 doi: "10.23919/VLSIT.2019.8776546"
