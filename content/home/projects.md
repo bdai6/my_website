@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+ #  [[content.filter_button]]
+ #    name = "All"
+ #    tag = "*"
   
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+ #  [[content.filter_button]]
+ #    name = "Deep Learning"
+ #    tag = "Deep Learning"
   
 #   [[content.filter_button]]
 #     name = "Other"
@@ -74,8 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-At WiCIL, our research focuses on future systems in two general directions: 1) *Augmenting computer systems with domain specific accelerators and emerging memories*, an essential step towards next-generation systems. It requires modest system changes and has low deployment barrier but the performance gain might be potentially limited. 2) *Rethinking computer systems with post-CMOS technology*, a more aggressive approach in pushing innovations across the entire system stack. It could lead to dramatic improvement in performance but often requires more disruptive change in both hardware and software.
 
 [//]: # (Image with title, caption, and clickable link) 
 [//]: # ( [![research overview](/img/research-overview.png "Title: Research Overview")*Caption of the figure*](https://www.where-is-jiafei.com) )
