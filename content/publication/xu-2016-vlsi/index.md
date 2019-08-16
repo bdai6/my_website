@@ -1,6 +1,6 @@
 ---
 title: "Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling"
-authors: ["Xiaoxin Xu","Q. Luo","Tiancheng Gong","Hangbing Lv","Shibing Long","Qi Liu","S. S. Chung","underlineJing Li","Ming Liu"]
+authors: ["Xiaoxin Xu","Qing Luo","Tiancheng Gong","Hangbing Lv","Shibing Long","Qi Liu","Steve S. Chung","Jing Li","Ming Liu"]
 date: 2016-06-01
 doi: "10.1109/VLSIT.2016.7573388"
 publication_types: ["1"]

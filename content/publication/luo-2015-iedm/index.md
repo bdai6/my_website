@@ -1,6 +1,6 @@
 ---
 title: "Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells"
-authors: ["Q. Luo","X. Xu","H. Liu","H. Lv","T. Gong","S. Long","Q. Liu","H. Sun","W. Banerjee","L. Li","J. Gao","N. Lu","S. S. Chung","underlineJing Li","M. Liu"]
+authors: ["Qing Luo","Xiaoxin Xu","Hongtao Liu","Hangbing Lv","Tiancheng Gong","Shibing Long","Qi Liu","Haitao Sun","Writam Banerjee","Ling Li","Jianfeng Gao","Nianduan Lu","Steve S. Chung","Jing Li","Ming Liu"]
 date: 2015-12-01
 doi: "10.1109/IEDM.2015.7409667"
 publication_types: ["1"]

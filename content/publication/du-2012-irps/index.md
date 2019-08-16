@@ -1,6 +1,6 @@
 ---
 title: "The impact of melting during reset operation on the reliability of phase change memory"
-authors: ["P. Y. Du","J. Y. Wu","T. H. Hsu","M. H. Lee","T. Y. Wang","H. Y. Cheng","E. K. Lai","S. C. Lai","H. L. Lung","S. Kim","M. J. BrightSky","Y. Zhu","S. Mittal","R. Cheek","S. Raoux","E. A. Joseph","A. Schrott","underlineJing Li","C. Lam"]
+authors: ["Pei-Ying Du","J. Y. Wu","T. H. Hsu","M. H. Lee","T. Y. Wang","H. Y. Cheng","E. K. Lai","S. C. Lai","H. L. Lung","S. Kim","M. J. BrightSky","Y. Zhu","S. Mittal","R. Cheek","S. Raoux","E. A. Joseph","A. Schrott","Jing Li","Chung Lam"]
 date: 2012-04-01
 doi: "10.1109/IRPS.2012.6241872"
 publication_types: ["1"]
