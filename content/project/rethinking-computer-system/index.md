@@ -9,6 +9,8 @@ categories: []
 date: 2019-08-08T22:58:17-05:00
 weight: 2
 
+draft: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

@@ -23,6 +23,13 @@ In the documentation and the example site, we will predominantly use YAML to for
 
 If a content file has front matter variables set between triple-minus `---` lines, then it is YAML formatted. Otherwise, a content file will have front matter variables set between triple-plus `+++` lines, indicating that it is TOML formatted. 
 
+## Create content
+
+- create a new project: `hugo new  --kind project project/my-project-name`
+- create a new talk: `hugo new  --kind talk talk/my-talk-name`
+- create a post: `hugo new  --kind post post/my-article-name`
+- create a publication *manually*: `hugo new --kind publication publication/<my-publication>`
+
 ## Syntax highlight
 Somehow syntax highlighting with {{< hl >}}```yaml{{< /hl >}} doesn't work, {{< hl >}}```json{{< /hl >}} works instead. 
 

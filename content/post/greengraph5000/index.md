@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["augmenting-computer-system", "rethinking-computer-system"]
+projects: ["augmenting-computer-system", "large-graph"]
 ---
 
 Our FPGA-based scalable graph analytics system is ranked No. 1 on the latest [GreenGraph500 list](http://graph500.org/?page_id=724).

@@ -9,6 +9,8 @@ categories: []
 date: 2019-08-08T22:57:41-05:00
 weight: 1
 
+draft: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -16,7 +18,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Green Graph500 (updated June 19, 2019)"
+  caption: ""
   focal_point: ""
   preview_only: false
 

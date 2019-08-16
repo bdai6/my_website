@@ -27,7 +27,7 @@ image:
   focal_point: ""
   preview_only: false
 
-projects: []
+projects: [deep-learning]
 
 slides: ""
 ---
