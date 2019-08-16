@@ -91,10 +91,29 @@ The list of latest work is controlled by `theme/academic/layouts/authors/list.ht
     </div>
     {{ end }}
 ```
-Key points:
+### Key points:
 
 1. [Page variable](https://gohugo.io/variables/page/#page-variables) `.IsNode` always *false* for regular content pages. So `where .Pages ".IsNode" false` means finding all regular content pages. 
 1. Then we use logic `and` and `where .Pages "Section" "publication"` to filter the result to get web pages that are *publications*.
 1. `i18n "user_profile_latest"` corresponds to English expression `"Latest"` according to `i18n/en.yaml`. For listing publications only, it should be changed to `i18n "publications"`, i.e., `"Publications"`.
 1. Use `printf "%s (%d)" (i18n "publications") $count ` to concatenate `"Publications"` and the number of publications.
 1. `.Title` corresponds to the title for this page.
+
+### Further improvement
+Use the following functions and variables to further customize a Hugo template.
+
+- `.Date` Page variable .Date pulls from the date field in a content’s front matter.
+
+- `.Params` calls page or site variables into your template. `.Params.publication` extracts the journal/conference name in a publication page. And `.Params.location` extracts the location information.
+
+- `markdownify` runs the provided string through the Markdown processor. So it can be used to create special effect (bold, italic, etc) on text.
+
+**Add date and journal/conference name to publications**
+```html
+ <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ dateFormat "2006" .Date }}). {{ .Params.publication | markdownify }}`
+```
+
+**Add date and location to talks**
+```html
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>, {{ .Params.location | markdownify }}, {{ dateFormat "Jan. 1, 2006" .Date }} 
+```
