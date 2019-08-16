@@ -1,7 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
-	branch = master
+	url = https://github.com/bdai6/hugo-academic.git
+	branch = customized
 [submodule "public"]
 	path = public
 	url = https://github.com/bdai6/bdai6.github.io.git
