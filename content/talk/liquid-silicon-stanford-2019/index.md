@@ -4,7 +4,7 @@
 title: "Liquid Silicon: A 10-year Journey Towards New Computing Paradigm"
 event:
 event_url:
-location: Dept. of Electrical Engineering, Stanford University,
+location: Dept. of Electrical Engineering, Stanford University
 summary:
 abstract:
 
