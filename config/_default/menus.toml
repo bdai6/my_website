@@ -22,16 +22,16 @@
   name = "The Lab"
   url = "#people"  
   weight = 30
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 35
   
 [[main]]
   name = "Research"
   url = "#research"
   weight = 40
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 45
   
 #[[main]]
 #  name = "Research Details"

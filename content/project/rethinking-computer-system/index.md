@@ -2,11 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Rethinking Computer System"
-summary: ""
-authors: []
+summary: "A more aggressive approach in pushing innovations across the entire system stack. It could lead to dramatic improvement in performance but often requires more disruptive change in both hardware and software."
+authors: [jing-li]
 tags: []
 categories: []
 date: 2019-08-08T22:58:17-05:00
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +40,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-

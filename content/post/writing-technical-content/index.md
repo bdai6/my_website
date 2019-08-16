@@ -6,6 +6,7 @@ authors:
 math: true
 diagram: true
 markup: mmark
+draft: true
 image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'

@@ -23,3 +23,4 @@ menu:
 
 ## Reference
 1. [Academic documentatin](https://sourcethemes.com/academic/docs/)
+2. [Hugo manual](https://gohugo.io/)
