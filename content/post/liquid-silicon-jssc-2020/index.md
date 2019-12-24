@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Our paper got accepted at 2019 Symposium on VLSI Circuits"
+title: "Our invited paper got accepted at JSSC"
 subtitle: ""
-summary: "Our paper got accepted at 2019 Symposium on VLSI Circuits. Congrats to Yue!"
-authors: ["Yue Zha", "Jing Li"]
+summary: "Our invited paper on Liquid Silicon got accepted at JSSC. Congrats to all the authors!"
+authors: ["Yue Zha", "Etienne Nowak", Jing Li"]
 tags: ["liquid silicon"]
 categories: []
-date: 2019-03-17T16:43:32-05:00
-lastmod: 2019-08-14T16:43:32-05:00
+date: 2019-12-24T22:48:15-06:00
+lastmod: 2019-12-24T22:48:15-06:00
 featured: false
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Comparing L-Si with State-of-the-Art"
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [liquid-silicon]
 ---
+Yue Zha, Etienne Nowak, and Jing Li, "Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (**invited**)", _IEEE Journal of Solid-State Circuits (**JSSC**)_, .

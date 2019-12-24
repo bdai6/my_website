@@ -115,18 +115,18 @@ Hugo/TOML require that the value for the date field should be in [TOML format](h
 
 ## Insert an image with Markdown
 - Image with title:
-`![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")`
-![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")
+`![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")`
+![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")
 
 - Image with caption:
-`![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")*Caption: WiCIL logo*`
-![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")*Caption: WiCIL logo*
+`![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")*Caption: PennCIL logo*`
+![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")*Caption: PennCIL logo*
 
 - Image with title, caption, and **clickable link**:
-`[![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")*Caption: WiCIL logo*](/#research)`
-[![WiCIL logo](/img/icon-192.png "Title: WiCIL logo")*Caption: WiCIL logo*](/#research)
+`[![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")*Caption: PennCIL logo*](/#research)`
+[![PennCIL logo](/img/icon-192.png "Title: PennCIL logo")*Caption: PennCIL logo*](/#research)
 
-`*Caption: WiCIL logo*` can be removed without affecting the link. This code is essentially achieved by nesting two markdown commands, i.e., *image* `![]()` *within link* `[]()`.
+`*Caption: PennCIL logo*` can be removed without affecting the link. This code is essentially achieved by nesting two markdown commands, i.e., *image* `![]()` *within link* `[]()`.
 
 ## Lists with Markdown
 A numbered list is created by

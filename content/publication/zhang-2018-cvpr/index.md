@@ -2,7 +2,7 @@
 title: "Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA"
 authors: ["Jialiang Zhang","Soroosh Khoram","Jing Li"]
 date: 2018-06-01
-doi: "DOI: 10.1109/CVPR.2018.00517"
+doi: "10.1109/CVPR.2018.00517"
 publication_types: ["1"]
 publication: "_Conference on Computer Vision and Pattern Recognition (**CVPR**)_"
 publication_short: ""

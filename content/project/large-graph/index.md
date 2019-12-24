@@ -3,12 +3,12 @@
 
 title: "Large Scale Graph Analytics"
 summary: "*degree-aware* hardware/software techniques to improve graph processing efficiency."
-authors: [jialiang-zhang, soroosh-khoram]
+authors: [jialiang-zhang, jing-li]
 tags: [graph, graph analytics, FPGA-HMC, BFS]
 categories: []
 date: 2019-08-16T16:02:06-05:00
 
-weight: 3
+weight: 9
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

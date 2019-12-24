@@ -1,4 +1,45 @@
 %%%%%%%%%% Under review %%%%%%%%%%
+@misc{khoram2019toco,
+    title={{TOCO: A Framework for Compressing Neural Network Models Based on Tolerance Analysis}},
+    author={Soroosh Khoram and Jing Li},
+    abstract={Neural network compression methods have enabled deploying large models on emerging edge devices with little cost, by adapting already-trained models to the constraints of these devices. The rapid development of AI-capable edge devices with limited computation and storage requires streamlined methodologies that can efficiently satisfy the constraints of different devices. In contrast, existing methods often rely on heuristic and manual adjustments to maintain accuracy, support only coarse compression policies, or target specific device constraints that limit their applicability. We address these limitations by proposing the TOlerance-based COmpression (TOCO) framework. TOCO uses an in-depth analysis of the model, to maintain the accuracy, in an active learning system. The results of the analysis are tolerances that can be used to perform compression in a fine-grained manner. Finally, by decoupling compression from the tolerance analysis, TOCO allows flexibility to changes in the hardware.},
+    year={2019},
+    date={2019-12-18},
+    eprint={1912.08792},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    pubstate={preprint},
+    url={https://arxiv.org/abs/1912.08792},
+    keywords={whitepaper}
+}
+
+
+@misc{khoram2019interleaved,
+    title={{Interleaved Composite Quantization for High-Dimensional Similarity Search}},
+    author={Soroosh Khoram and Stephen J Wright and Jing Li},
+    abstract={Similarity search retrieves the nearest neighbors of a query vector from a dataset of high-dimensional vectors. As the size of the dataset grows, the cost of performing the distance computations needed to implement a query can become prohibitive. A method often used to reduce this computational cost is quantization of the vector space and location-based encoding of the dataset vectors. These encodings can be used during query processing to find approximate nearest neighbors of the query point quickly. Search speed can be improved by using shorter codes, but shorter codes have higher quantization error, leading to degraded precision. In this work, we propose the Interleaved Composite Quantization (ICQ) which achieves fast similarity search without using shorter codes. In ICQ, a small subset of the code is used to approximate the distances, with complete codes being used only when necessary. Our method effectively reduces both code length and quantization error. Furthermore, ICQ is compatible with several recently proposed techniques for reducing quantization error and can be used in conjunction with these other techniques to improve results. We confirm these claims and show strong empirical performance of ICQ using several synthetic and real-word datasets.},
+    year={2019},
+    date={2019-12-18},
+    eprint={1912.08756},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    pubstate={preprint},
+    url={https://arxiv.org/abs/1912.08756},
+    keywords={whitepaper}
+}
+
+
+@misc{alex2019mlsys,
+    title={{MLSys: The New Frontier of Machine Learning Systems}},
+    author={Alexander Ratner and Dan Alistarh and Gustavo Alonso and David G. Andersen and Peter Bailis and Sarah Bird and Nicholas Carlini and Bryan Catanzaro and Jennifer Chayes and Eric Chung and Bill Dally and Jeff Dean and Inderjit S. Dhillon and Alexandros Dimakis and Pradeep Dubey and Charles Elkan and Grigori Fursin and Gregory R. Ganger and Lise Getoor and Phillip B. Gibbons and Garth A. Gibson and Joseph E. Gonzalez and Justin Gottschlich and Song Han and Kim Hazelwood and Furong Huang and Martin Jaggi and Kevin Jamieson and Michael I. Jordan and Gauri Joshi and Rania Khalaf and Jason Knight and Jakub Konečný and Tim Kraska and Arun Kumar and Anastasios Kyrillidis and Aparna Lakshmiratan and Jing Li and Samuel Madden and H. Brendan McMahan and Erik Meijer and Ioannis Mitliagkas and Rajat Monga and Derek Murray and Kunle Olukotun and Dimitris Papailiopoulos and Gennady Pekhimenko and Theodoros Rekatsinas and Afshin Rostamizadeh and Christopher Ré and Christopher De Sa and Hanie Sedghi and Siddhartha Sen and Virginia Smith and Alex Smola and Dawn Song and Evan Sparks and Ion Stoica and Vivienne Sze and Madeleine Udell and Joaquin Vanschoren and Shivaram Venkataraman and Rashmi Vinayak and Markus Weimer and Andrew Gordon Wilson and Eric Xing and Matei Zaharia and Ce Zhang and Ameet Talwalkar},
+    year={2019},
+    eprint={1904.03257},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    pubstate={preprint},
+    keywords={whitepaper}
+}
+
 @article{ratner2019sysml,
   author    = {Ratner, Alexander and Alistarh, Dan and Alonso, Gustavo and Andersen, David G. and Bailis, Peter and Bird, Sarah and Carlini, Nicholas and Catanzaro, Bryan and Chayes, Jennifer and Chung, Eric and Dally, Bill and Dean, Jeff and Dhillon, Inderjit S. and Dimakis, Alexandros and Dubey, Pradeep and Elkan, Charles and Fursin, Grigori and Ganger, Gregory R. and Getoor, Lise and Gibbons, Phillip B. and Gibson, Garth A. and Gonzalez, Joseph E. and Gottschlich, Justin and Han, Song and Hazelwood, Kim and Huang, Furong and Jaggi, Martin and Jamieson, Kevin and Jordan, Michael I. and Joshi, Gauri and Khalaf, Rania and Knight, Jason and Kone{\v{c}}n{\'{y}}, Jakub and Kraska, Tim and Kumar, Arun and Kyrillidis, Anastasios and Lakshmiratan, Aparna and Li, Jing and Madden, Samuel and McMahan, H. Brendan and Meijer, Erik and Mitliagkas, Ioannis and Monga, Rajat and Murray, Derek and Olukotun, Kunle and Papailiopoulos, Dimitris and Pekhimenko, Gennady and Rekatsinas, Theodoros and Rostamizadeh, Afshin and R{\'{e}}, Christopher and {De Sa}, Christopher and Sedghi, Hanie and Sen, Siddhartha and Smith, Virginia and Smola, Alex and Song, Dawn and Sparks, Evan and Stoica, Ion and Sze, Vivienne and Udell, Madeleine and Vanschoren, Joaquin and Venkataraman, Shivaram and Vinayak, Rashmi and Weimer, Markus and Wilson, Andrew Gordon and Xing, Eric and Zaharia, Matei and Zhang, Ce and Talwalkar, Ameet},
   title     = {SysML: The New Frontier of Machine Learning Systems},
@@ -16,6 +57,16 @@
 }
 
 %%%%%%%%%% Referred Journal %%%%%%%%%%
+@ARTICLE{zha2020jssc, 
+author={Zha, Yue and Nowak, Etienne and Li, Jing}, 
+journal={IEEE Journal of Solid-State Circuits (**JSSC**)}, 
+title={{Liquid Silicon}: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated {ReRAM} for {Big Data/Machine Learning} Applications (**invited**)}, 
+ year = {2020},
+ pubstate = {in print},
+ keywords = {journal}
+}
+
+
 @article{shukla2018frontiers,
 title = {Computing Generalized Matrix Inverse on Spiking Neural Substrate},
 author = {Rohit Shukla and Soroosh Khoram and Erik Jorgensen and Jing Li and Mikko Lipasti and Stephen Wright},
@@ -244,6 +295,18 @@ month={Nov},
 }
 
 %%%%%%%%%% Referred conference %%%%%%%%%%
+@inproceedings{zha2020asplos,
+ author = {Zha, Yue and Li, Jing},
+ title = {{ViTAL: Virtualizing FPGAs in the Cloud}},
+ booktitle = {the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},
+ series = {**ASPLOS** '20},
+ year = {2020},
+ pubstate = {upcoming},
+ note = {},
+ keywords = {conference}
+}
+
+
 @inproceedings{luo2019vlsit,
  author = {Luo, Qing and Yu, Jie and Zhang, Xumeng and Xue, Kan-Hao and Cheng, Yan and Gong, Tiancheng and Lv, Hangbing and Xu, Xiaoxin and Yuan, Peng and Yin, Jiahao and Tai, Lu and Long, Shibing and Liu, Qi and Li, Jing and Liu, Ming},
  title = {Nb\textsubscript{1-x}O\textsubscript{2} based Universal Selector with Ultra-high Endurance (>10\textsuperscript{12}), high speed (10ns) and Excellent V\textsubscript{th} Stability},

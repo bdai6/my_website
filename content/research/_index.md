@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Research at WiCIL
-summary: Documentation for all research activities at WICIL.
+linktitle: Research at PennCIL
+summary: Documentation for all research activities at PennCIL.
 weight: 1
 
 # Page metadata.
@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-At WiCIL, our research focuses on future systems in two general directions:
+At PennCIL, our research focuses on future systems in two general directions:
 
 1. **Augmenting computer systems with domain specific accelerators and emerging memories** -- an essential step towards next-generation systems. It requires modest system changes and has low deployment barrier but the performance gain might be potentially limited.
 

@@ -8,7 +8,7 @@ tags: [deep learning, DNN, AI, FPGA, roofline model, convolutional neural networ
 categories: []
 date: 2019-08-16T15:57:51-05:00
 
-weight: 4
+weight: 11
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

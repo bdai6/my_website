@@ -3,12 +3,12 @@
 
 title: "Two Dimensional Associative Processor (2D AP)"
 summary: "A radically new computing paradigm to further advance FPGA-based graph processing architectures and fundamentally address their limitations."
-authors: [soroosh-khoram]
+authors: [jing-li]
 tags: [graph, associative processing, general purpose computing]
 categories: []
 date: 2019-08-16T16:00:10-05:00
 
-weight: 2
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
