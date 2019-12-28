@@ -14,10 +14,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
-  url: "http://www.engr.wisc.edu/department/electrical-computer-engineering/"
-- name: University of Wisconsin-Madison
-  url: "https://www.wisc.edu"  
+- name: Department of Electrical and Systems Engineering
+  url: "https://www.ese.upenn.edu/"
+- name: University of Pennsylvania
+  url: "https://www.upenn.edu/"  
 
 
 # Short bio (displayed in user profile at end of posts)

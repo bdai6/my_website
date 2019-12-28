@@ -14,11 +14,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
-  url: "http://www.engr.wisc.edu/department/electrical-computer-engineering/"
-- name: University of Wisconsin-Madison
-  url: "https://www.wisc.edu"  
-
+- name: Department of Electrical and Systems Engineering
+  url: "https://www.ese.upenn.edu/"
+- name: University of Pennsylvania
+  url: "https://www.upenn.edu/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: 1st year PhD student
@@ -64,4 +63,4 @@ user_groups:
  - Grad Students
 ---
 
-Nick Beckwith is a 1st year PhD student in the ECE department of UW-Madison. He received his B.S. degree from University of Wisconsin-Madison in the area of computer engineering.
+Nick Beckwith is a 1st year PhD student in the ECE department of UW-Madison. He received his B.S. degree from University of Wisconsin-Madison in the area of computer engineering in 2019.
