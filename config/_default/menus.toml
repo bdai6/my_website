@@ -50,7 +50,7 @@
   
 [[main]]
   name = "Courses & Notes"
-  url = "courses/"
+  url = ""
   weight = 70
   
 [[main]]
@@ -59,7 +59,7 @@
   weight = 80
   
 [[main]]
-  name = "Contact"
+  name = "Contact & Openings"
   url = "#contact"
   weight = 90
 

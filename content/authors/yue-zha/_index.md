@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Way beyond a programmer.
+bio: PhD student in computer architecture, reconfigurable computing, and CAD
 
 interests:
 - Computer Architecture

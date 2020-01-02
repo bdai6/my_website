@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Way beyond an FPGA expert.
+bio: PhD student and FPGA expert
 
 interests:
 - FPGA based Accelerator

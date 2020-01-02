@@ -20,10 +20,12 @@ organizations:
   url: "https://www.upenn.edu/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: 1st year PhD student
+bio: PhD student working on FPGA-accelerated system simulators to develop novel solutions for emerging memory technologies
 
 interests:
-- FPGA based Accelerator
+- Frameworks for FPGA-accelerated system simulations
+- System support for Processing Near Memory 
+- Applications and Systems for emerging memories
 
 education:
   courses:
@@ -38,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:nbeckwith2@wisc.edu"
+  link: "mailto:nickbeck@seas.upenn.edu"
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/abc
@@ -63,4 +65,4 @@ user_groups:
  - Grad Students
 ---
 
-Nick Beckwith is a 1st year PhD student in the ECE department of UW-Madison. He received his B.S. degree from University of Wisconsin-Madison in the area of computer engineering in 2019.
+Nick Beckwith is a PhD student at the University of Pennsylvania with the Electrical and Systems Engineering Department. He received his B.S. in Computer Engineering at the University of Wisconsin-Madison in 2019. His primary interests lie in providing research infrastructures for novel cross-stack solutions in embedded systems, emerging memory technologies and tightly integrated heterogeneous systems. He looks forward to tackling the problems of a post-Moore era with these fast, novel and high fidelity research infrastructures.
