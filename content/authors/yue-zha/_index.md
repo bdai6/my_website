@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yzha3@wisc.edu"
+  link: "mailto:zhayue@seas.upenn.edu"
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/abc
