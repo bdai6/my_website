@@ -28,10 +28,9 @@ bio: Attracted to all the big problems in computer system across the stack regar
 interests:
 - Computer Architecture
 - Compiler
-- Memory
+- Distributed Systems
 - VLSI
 - Machine Learning
-- Data Science
 
 education:
   courses:
