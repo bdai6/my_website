@@ -120,3 +120,41 @@ Organizing Committee:
 * Finance Chair:  Kia Bazargan, University of Minnesota, [financechair@isfpga.org](financechair@isfpga.org).
 * Artifact Evaluation Co-Chairs: Miriam Leeser, Northeastern University, and Suhaib * Fahmy, University of Warwick, [artifactevaluationchair@isfpga.org](artifactevaluationchair@isfpga.org).
 * Publicity Chair: Jing Li, University of Wisconsin-Madison, [publicitychair@isfpga.org](publicitychair@isfpga.org).
+
+| Time |  |
+| :--- | :--- |
+|  |**Sunday Feb 23** |
+|**8:00**  |**Session: Invited Tutorials** |
+|8:00 |**Vitis Introduction: Edge and Cloud Acceleration Workflow**|
+|  |*Parimal Patel* |
+|8:30 |  **From C/C++ to Dynamically Scheduled Circuits** |
+| |  *Lana Josipović(1), Andrea Guerrieri(1), Paolo Ienne(1)*. EPFL(1) |
+|9:30 | **FPGA Hardware Security for Datacenters and Beyond** | 
+| | *Kaspar Matas(1); Tuan La(1); Nikola Grunchevski(1); Khoa Pham(1); Dirk Koch(1)*. The University of Manchester(1) |
+|**11:30** | **Lunch** |
+|**12:45** | **Invited Session: Security in FPGA Design and Application** (Chair: Ryan Kastner and Russell Tessier) |
+|12:45 | **Establishing trust in Microelectronics** |
+| | *Lee Lerner(1)*. Georgia Tech(1) |
+|13:00 | **Thermal and Voltage Side Channels and Attacks in Cloud FPGAs** |
+| | *Jakub Szefer(1)*. Yale University(1)|
+|13:15 | **Multi-tenant FPGA Security: Challenges and Opportunities** |
+| | *Patrick Koeberl(1)*. Intel Corporation(1)|
+|13:30 | **FPGA/SoC Security: Arms Race in the Cloud** |
+| | *Steve McNeil(1)*. Xilinx(1) |
+|13:45| Panel Discussion |
+|**14:15** | **Coffee Break** |
+|14:30 | **Invited Panel: What to do with Datacenter FPGAs Besides Deep Learning** (Chair: Andrew Putnam) |
+|16:00| Close for the day |
+|**16:00**| **FCCM PC Meeting** |
+|**19:30**|**Reception**|
+|||
+||**Monday Feb 24**|
+|**8:00**| **Open the conference (General Chair/Program Chair)** |
+|8:15| **Invited Talk: Symbiosis in Action: Reconfigurable Architectures and EDA** |
+| | Mahesh Iyer (Intel)|
+|8:45|**Session: High-Level Abstractions and Tools  I**|
+|8:45|**Maximizing the Serviceability of Partially Reconfigurable FPGA Systems in Multi-tenant Environment**|
+| |  *Tuan D. A. Nguyen(1); Akash Kumar(1)*. Technische Universität Dresden(1) |
+|9:10|**AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration**|
+|| *Pengfei Xu(1); Yang Zhao(1); Xiaofan Zhang(2); Cong Hao(2; Zetong Guan(1); Yongan Zhang(1); Yue Wang(1); Deming Chen(2); Yingyan Lin(1)*. Rice University(1), University of Illinois Urbana-Champaign(2) |
+
