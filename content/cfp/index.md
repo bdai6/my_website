@@ -152,9 +152,91 @@ Organizing Committee:
 |**8:00**| **Open the conference (General Chair/Program Chair)** |
 |8:15| **Invited Talk: Symbiosis in Action: Reconfigurable Architectures and EDA** |
 | | Mahesh Iyer (Intel)|
-|8:45|**Session: High-Level Abstractions and Tools  I**|
-|8:45|**Maximizing the Serviceability of Partially Reconfigurable FPGA Systems in Multi-tenant Environment**|
+|**8:45**|**Session: High-Level Abstractions and Tools  I**|
+|8:45|Maximizing the Serviceability of Partially Reconfigurable FPGA Systems in Multi-tenant Environment|
 | |  *Tuan D. A. Nguyen(1); Akash Kumar(1)*. Technische Universität Dresden(1) |
-|9:10|**AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration**|
+|9:10|AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration|
 || *Pengfei Xu(1); Yang Zhao(1); Xiaofan Zhang(2); Cong Hao(2; Zetong Guan(1); Yongan Zhang(1); Yue Wang(1); Deming Chen(2); Yingyan Lin(1)*. Rice University(1), University of Illinois Urbana-Champaign(2) |
+|9:35| HeteroHalide: From Image Processing DSL to Efficient FPGA Acceleration |
+| |  *Jiajie Li(Tsinghua University); Yuze Chi(University of California, Los Angeles); Jason Cong(UCLA)*|
+|9:40| Fingerprinting Cloud FPGA Infrastructures | 
+| |  *Shanquan Tian(Yale University); Wenjie Xiong(Yale University); Ilias Giechaskiel(University of Oxford); Kasper Rasmussen(University of Oxford); Jakub Szefer(Yale University)* |
+|**9:45**| **Posters** |
+|**10:55**|**Session: Appications I**|
+|10:55| Massively Simulating Adiabatic Bifurcations with FPGA to Solve Combinatorial Optimization|
+|| *Yu Zou(University of Central Florida); Mingjie Lin(University of Central Florida)*|
+|11:20| High-performance FPGA network switch architecture |
+|| *Philippos Papaphilippou(Imperial College London); Jiuxi Meng(Imperial College London); Wayne Luk(Imperial College)*|
+|12:10|Energy-Efficient 360-Degree Video Rendering on FPGA via Algorithm-Architecture Co-Design|
+||*Qiuyue Sun (University of Rochester); Amir Taherin(University of Rochester); Yawo Siatitse(University of Rochester); Yuhao Zhu (University of Rochester)*|
+|12:15|Real-Time Spatial 3D Audio Synthesis on FPGAs for Blind Sailing|
+|| *Anish Singhani(Olin College of Engineering); Alexander Morrow(Olin College of Engineering)*|
+|**12:20**|**Lunch**|
+|**13:45**|**Session: Deep Learning I**|
+|13:45|When massive GPU parallelism ain't enough: A Novel Hardware Architecture of 2D-LSTM Neural Network|
+|| *Vladimir Rybalkin(University of Kaiserslautern); Norbert Wehn(University of Kaiserslautern)*|
+|14:10|Light-OPU: An FPGA-based Overlay Processor for Lightweight Convolutional Neural Networks|
+|| *Yunxuan Yu(Rednova Innovations Inc); Tiandong Zhao(Rednova Innovations Inc); Kun Wang(Rednova Innovations Inc); Lei He(ECE department, UCLA)*|
+|14:35|End-to-End Optimization of Deep Learning Applications|
+|| *Atefeh Sohrabizadeh(University of California Los Angeles); Jie Wang(UCLA); Jason Cong(UCLA)*|
+|**14:40**|**Posters**|
+|**15:50**|**Session: FPGA Architecture**|
+|15:50|Architectural Enhancements in Intel Agilex FPGAs|
+|| *Jeff Chromczak(Intel); Mark Wheeler(Intel); Charles Chiasson(Intel); Dana How(Intel); Martin Langhammer(Intel); Tim Vanderhoek(Intel); Grace Zgheib(Intel Corporation); Ilya Ganusov(Intel)*|
+|16:15|Straight to the Point: Intra- and Inter-Cluster LUT Connections to Mitigate the Delay of Programmable Routing|
+|| *Stefan Nikolic(EPFL); Grace Zgheib(Intel Corporation); Paolo Ienne(EPFL)*|
+|16:40|LUXOR: An FPGA Logic Cell Architecture for Efficient Compressor Tree Implementations|
+|| *Seyedramin Rasoulinezhad(University of Sydney); Siddhartha -(University of Sydney); Hao Zhou(Fudan University); Lingli Wang(Fudan University); David Boland(University of Sydney); Philip H.W. Leong(University of Sydney)*|
+|**17:05**|**Steering Committee Meeting**|
+|18:30|Dinner|
+||**Panel (Chair: Raymond Nijssen)**|
+||**FPGAs will never be the same again:  How the newest FPGA architectures are totally disrupting the entire FPGA ecosystem as we know**|
+|||
+||**Tuesday Feb 25**|
+|8:30|**Invited Talk: Xilinx's Vitis Unified Software Platform**|
+||*Vinod Kathail (Xilinx)*|
+|**9:00**|**Session: High-Level Abstractions and Tools for FPGAs II** |
+|9:00|StateMover: Combining Simulation and Hardware Execution for Efficient FPGA Debugging|
+||*Sameh Attia(University of Toronto); Vaughn Betz(University of Toronto)*|
+|9:25|Buffer Placement and Sizing for High-Performance Dataflow Circuits|
+||*Lana Josipovic(École polytechnique fédérale de Lausanne); Shabnam Sheikhha(EPFL); Andrea Guerrieri(EPFL); Paolo Ienne(EPFL); Jordi Cortadella(Universitat Politecnica de Catalunya)*|
+|9:50|Closing Leaks: Routing Against Crosstalk Side-Channel Attacks|
+||*Zeinab Seifoori(Department of Computer Engineering, Sharif University of Technology (SUT)); Seyedeh Sharareh Mirzargar(EPFL); Mirjana Stojilovic(EPFL)*|
+|9:55|Built-in Self-Evaluation of First-Order Power Side-Channel Leakage for FPGAs|
+||*Ognjen Glamocanin(École Polytechnique Fédérale de Lausanne (EPFL)); Louis Coulon(École Polytechnique Fédérale de Lausanne (EPFL)); Francesco Regazzoni(ALaRI); Mirjana Stojilovic(EPFL)*|
+|**10:00**|**Posters**|
+|**11:10**|**Session: Applications II**|
+|11:10|Dependency-Driven Trace-Based Network-on-Chip Emulation on FPGAs|
+||*Thiem V. Chu(Japan Advanced Institute of Science and Technology); Kenji Kise(Tokyo Institute of Technology); Kiyofumi Tanaka(Japan Advanced Institute of Science and Technology)*|
+|11:35|FPGA-Accelerated Samplesort For Large Data Sets|
+||*Han Chen(Stony Brook University); Sergey Madaminov(Stony Brook University); Michael Ferdman(Stony Brook University); Peter Milder(Stony Brook University)*|
+|12:00|BS-KM: Enabling Any-Precision K-Means on FPGAs|
+||*Zhenhao He(ETH Zurich); Zeke Wang(ETH Zurich); Gustavo Alonso(ETH Zurich)*|
+|12:25|Flexible Communication Avoiding High-Level Synthesis Matrix Multiplication on FPGA|
+||*Johannes de Fine Licht(ETH Zurich); Grzegorz Kwasniewski(ETH Zurich); Torsten Hoefler(ETH Zurich)*|
+|**12:50**|**Lunch**|
+|**14:10**|**Session: Deep Learning II**|
+|14:10|Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms|
+||*Hanqing Zeng(University of Southern California); Viktor Prasanna(University of Southern California)*|
+|14:35|Reuse Kernels or Activations? A Flexible Dataflow for Low-latency Spectral CNN Acceleration|
+||*Yue Niu(University of Southern California); Rajgopal Kannan(USC); Ajitesh Srivastava(University of Southern California); Viktor K Prasanna(University of Southern California)*|
+|**15:00**|**Coffee Break**|
+|**16:00**|**Session: High-Level Synthesis and Tools**|
+|16:00|Finding and Understanding Bugs in FPGA Synthesis Tools|
+||*Yann Herklotz(Imperial College London); John Wickerson(Imperial College London)*|
+|16:25|Combining Dynamic & Static Scheduling in High-level Synthesis|
+||*Jianyi Cheng(Imperial College London); Lana Josipovic(École polytechnique fédérale de Lausanne); George Constantinides(Imperial College London); Paolo Ienne(EPFL); John Wickerson(Imperial College London)*|
+|16:50|Boyi: A Systematic Framework for Automatically Deciding the Best Execution Model for OpenCL Applications on FPGAs|
+|| *Jiantong Jiang(Northeastern University); Xue Liu(Northeastern University); Juan Gómez-Luna(ETH Zurich); Nan Guan(The Hong Kong Polytechnic University); Qingxu Deng(Northeastern University); Wei Zhang(Hong Kong University of Science and Technology); Onur Mutlu(ETH Zurich and Carnegie Mellon University); Zeke Wang(ETH Zurich)*|
+|**17:15**|**Conference closing- Best Paper Award**|
+
+
+
+
+
+
+
+
+
+
 
