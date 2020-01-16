@@ -128,19 +128,19 @@ Organizing Committee:
 |8:00 |**Vitis Introduction: Edge and Cloud Acceleration Workflow**|
 |  |*Parimal Patel* |
 |8:30 |  **From C/C++ to Dynamically Scheduled Circuits** |
-| |  *Lana Josipović(1), Andrea Guerrieri(1), Paolo Ienne(1)*. EPFL(1) |
+| |  *Lana Josipović (EPFL), Andrea Guerrieri (EPFL); Paolo Ienne (EPFL)* |
 |9:30 | **FPGA Hardware Security for Datacenters and Beyond** | 
-| | *Kaspar Matas(1); Tuan La(1); Nikola Grunchevski(1); Khoa Pham(1); Dirk Koch(1)*. The University of Manchester(1) |
+| | *Kaspar Matas(The University of Manchester); Tuan La(The University of Manchester); Nikola Grunchevski(The University of Manchester); Khoa Pham(The University of Manchester); Dirk Koch(University of Manchester)* |
 |**11:30** | **Lunch** |
 |**12:45** | **Invited Session: Security in FPGA Design and Application** (Chair: Ryan Kastner and Russell Tessier) |
 |12:45 | **Establishing trust in Microelectronics** |
-| | *Lee Lerner(1)*. Georgia Tech(1) |
+| | *Lee Lerner (Georgia Tech)* |
 |13:00 | **Thermal and Voltage Side Channels and Attacks in Cloud FPGAs** |
-| | *Jakub Szefer(1)*. Yale University(1)|
+| | *Jakub Szefer (Yale University)*|
 |13:15 | **Multi-tenant FPGA Security: Challenges and Opportunities** |
-| | *Patrick Koeberl(1)*. Intel Corporation(1)|
+| | *Patrick Koeberl (Intel Corporation)*|
 |13:30 | **FPGA/SoC Security: Arms Race in the Cloud** |
-| | *Steve McNeil(1)*. Xilinx(1) |
+| | *Steve McNeil (Xilinx)* |
 |13:45| Panel Discussion |
 |**14:15** | **Coffee Break** |
 |14:30 | **Invited Panel: What to do with Datacenter FPGAs Besides Deep Learning** (Chair: Andrew Putnam) |
@@ -154,9 +154,9 @@ Organizing Committee:
 | | Mahesh Iyer (Intel)|
 |**8:45**|**Session: High-Level Abstractions and Tools  I**|
 |8:45|Maximizing the Serviceability of Partially Reconfigurable FPGA Systems in Multi-tenant Environment|
-| |  *Tuan D. A. Nguyen(1); Akash Kumar(1)*. Technische Universität Dresden(1) |
+| |  *Tuan D. A. Nguyen(Technische Universität Dresden); Akash Kumar(Technische Universitaet Dresden)* |
 |9:10|AutoDNNchip: An Automated DNN Chip Generator through Compilation, Optimization, and Exploration|
-|| *Pengfei Xu(1); Yang Zhao(1); Xiaofan Zhang(2); Cong Hao(2; Zetong Guan(1); Yongan Zhang(1); Yue Wang(1); Deming Chen(2); Yingyan Lin(1)*. Rice University(1), University of Illinois Urbana-Champaign(2) |
+|| *Pengfei Xu(Rice University); Yang Zhao(Rice University); Xiaofan Zhang(University of Illinois at Urbana-Champaign); Cong Hao(University of Illinois Urbana-Champaign); Zetong Guan(Rice University); Yongan Zhang(Rice University); Yue Wang(Rice University); Deming Chen(University of Illinois Urbana-Champaign); Yingyan Lin(Rice University)* |
 |9:35| HeteroHalide: From Image Processing DSL to Efficient FPGA Acceleration |
 | |  *Jiajie Li(Tsinghua University); Yuze Chi(University of California, Los Angeles); Jason Cong(UCLA)*|
 |9:40| Fingerprinting Cloud FPGA Infrastructures | 
@@ -167,6 +167,8 @@ Organizing Committee:
 || *Yu Zou(University of Central Florida); Mingjie Lin(University of Central Florida)*|
 |11:20| High-performance FPGA network switch architecture |
 || *Philippos Papaphilippou(Imperial College London); Jiuxi Meng(Imperial College London); Wayne Luk(Imperial College)*|
+|11:45|Using OpenCL to Enable Software-like Development of an FPGA-Accelerated Biophotonic Cancer Treatment Simulator|
+||*Tanner Young-Schultz(University of Toronto); Lothar Lilge(Princess Margaret Cancer Centre); Stephen Brown(University of Toronto); Vaughn Betz(University of Toronto)*|
 |12:10|Energy-Efficient 360-Degree Video Rendering on FPGA via Algorithm-Architecture Co-Design|
 ||*Qiuyue Sun (University of Rochester); Amir Taherin(University of Rochester); Yawo Siatitse(University of Rochester); Yuhao Zhu (University of Rochester)*|
 |12:15|Real-Time Spatial 3D Audio Synthesis on FPGAs for Blind Sailing|
